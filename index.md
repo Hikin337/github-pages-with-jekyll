@@ -1,4 +1,4 @@
-#### Welcome to my link repository 
+##### Welcome to my link repository 
 
 <dl>
   <dt>A collection of useful links that may take you to yet unexplored areas of the internet.</dt>
@@ -14,4 +14,4 @@
       <dd>Learn about cryptocurrency and earn a little for your trouble. Coinbase also serves as an online wallet for cryptocurrency which I think is probably a good idea to have right now.</dd>
    <dl>
     <dt><a href="https://brilliant.org/courses/#popular">Brilliant Courses</a></dt>
-      <dd>Excel in mathematics and sciences - that's their slogan, they're a bit like Khan Academy and they're free so that's great.<dd>
+      <dd>Excel in mathematics and sciences - that's their slogan, they're a bit like Khan Academy and they're free so that's great.<dd></details>
