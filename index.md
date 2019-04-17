@@ -7,7 +7,9 @@
 <details>
   <summary># Learn something ...</summary>
   
-    <a href="https://www.khanacademy.org/">Khan Academy - Take free courses online</a>
-    <ul>[Learn about Cryptocurrency and earn a little for your trouble](https://www.coinbase.com/earn)</ul>
+  <dl>
+  <dt><a href="https://www.khanacademy.org/">Khan Academy</a></dt> 
+    <dd>Take free courses online</dd>
+    <a href="">Coinbase - Cryptocurrency and earn a little for your trouble](https://www.coinbase.com/earn)</ul>
 
 </details>
