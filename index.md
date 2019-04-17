@@ -5,7 +5,7 @@
   <dd>Where would you like to go?</dd>
 
 <details>
-  <summary>__Learn something__ ...</summary>
+  <summary><h3>Learn something</h3> ...</summary>
   <dl>
   <dt><a href="https://www.khanacademy.org/">Khan Academy</a></dt> 
     <dd>Take free courses online. I think they're best known for their educational provisions on mathematics but you can learn a viariety of things</dd>
